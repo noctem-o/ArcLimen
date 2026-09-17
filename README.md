@@ -62,17 +62,17 @@ ArcLimen is currently a research direction rather than a frozen architecture. Th
 │  typed events                                       │
 │      │                                              │
 │      ▼                                              │
-│  feature computation                               │
+│  feature computation                                │
 │  CPU reference ───── accelerated backend            │
 │      │                                              │
 │      ▼                                              │
-│  typed decision questions                          │
+│  typed decision questions                           │
 │      │                                              │
 │      ▼                                              │
-│  probabilistic decision provider                   │
+│  probabilistic decision provider                    │
 │      │                                              │
 │      ▼                                              │
-│  calibrated limen / routing policy                 │
+│  calibrated limen / routing policy                  │
 │      │                                              │
 │      ├── deterministic path                         │
 │      ├── retrieval / verification                   │
